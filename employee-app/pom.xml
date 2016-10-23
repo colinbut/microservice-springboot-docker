@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany.microservice.spring.boot.docker</groupId>
-    <artifactId>microservice-springboot-docker</artifactId>
+    <artifactId>microservice-springboot-docker-employee-app</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>microservice-springboot-docker Maven Webapp</name>
+    <name>Employee Application</name>
     <url>http://maven.apache.org</url>
 
     <parent>
